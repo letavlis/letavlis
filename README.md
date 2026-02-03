@@ -41,6 +41,3 @@ Meu foco atual está em aplicações reais e complexas:
 
 ---
 
-### 💜 Off-Topic
-* 📖 Acompanhando **Jujutsu Kaisen**.
-* 🐈 Mãe de pet (que mora com os avós).
