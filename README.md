@@ -1,6 +1,6 @@
 # Olá, eu sou a Bruna! 👋
 
-Sou desenvolvedora **Full Stack** de **Curitiba**, atuando com **Mobile (Android)** e **Web Moderno**. Gosto de transitar entre criar apps nativos e aplicações web robustas, sempre focada em entregas de valor e metodologias ágeis.
+Sou desenvolvedora **Full Stack**, atualmente em **Curitiba**, atuando com **Mobile (Android)** e **Web Moderno**. Gosto de transitar entre criar apps nativos e aplicações web robustas, sempre focada em entregas de valor e metodologias ágeis.
 
 ---
 
@@ -19,7 +19,7 @@ Meu foco atual está em aplicações reais e complexas:
 ### 📚 Estudos & Metodologias
 
 * 🎓 **Pós-Graduação:** Especialização em Desenvolvimento Ágil de Software.
-* ✨ **Organização:** Adepta de [Semantic Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) para manter o histórico de código limpo e rastreável.
+* 🗂️ **Organização:** Adepta de [Semantic Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) para manter o histórico de código limpo e rastreável.
 
 ---
 
