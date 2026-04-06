@@ -11,8 +11,6 @@ Meu foco atual está em aplicações reais e complexas:
 * **🏢 Sistema de Gestão de Eventos e Reservas:**
     * Desenvolvendo uma solução completa para administração de locações.
     * *Foco técnico:* Controle de inventário, lógica de overbooking e gestão de permissões (Admin/Recepção).
-* **🌐 Migração Web Institucional:**
-    * Recriando um portal corporativo utilizando **Next.js** e **NestJS** para substituir estruturas legadas e otimizar a performance.
 
 ---
 
