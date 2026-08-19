@@ -31,5 +31,12 @@ Meu foco atual está em aplicações reais e complexas:
 
 ---
 
+### ⚡ Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=letavlis&theme=react-dark&hide_border=true" width="100%" />
+</div>
+
+---
 
 
