@@ -31,8 +31,3 @@ Meu foco atual está em aplicações reais e complexas:
 
 ---
 
-### ⚡ Atividade
-
----
-
-
